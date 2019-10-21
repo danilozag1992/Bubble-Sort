@@ -19,7 +19,7 @@ This project was completed in line with standards provided by [Microverse](https
 > Clone the repository to your local machine
 
 ```sh
-$ git clone https://github.com/danilozag1992/Bubble-Sort.git
+$ git clone https://github.com/kobiyoyo/Bubble-Sort.git
 ```
 
 > navigate ```cd ``` into the cloned directory
@@ -27,14 +27,10 @@ $ git clone https://github.com/danilozag1992/Bubble-Sort.git
 ```sh
 $ cd bubble-sort
 ```
-## Contributors
-[Danilo Zagarcanin ](https://github.com/danilozag1992)
-
-[Adama Chubiyojo Desmond](https://github.com/kobiyoyo)
 
 ## Contributing
 
-1. Fork it (https://github.com/danilozag1992/Bubble-Sort.git)
+1. Fork it (https://github.com/kobiyoyo/Bubble-Sort/fork)
 2. Create your feature (dev) branch (git checkout -b feature/[choose-a-name])
 3. Commit your changes (git commit -m 'What this commit will fix/add')
 4. Push to the branch (git push origin feature/[chosen name])
