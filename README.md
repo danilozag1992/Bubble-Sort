@@ -27,7 +27,7 @@ $ git clone https://github.com/kobiyoyo/Bubble-Sort.git
 ```sh
 $ cd bubble-sort
 ```
-## Contributors
+## Developers
 
 * [Adama Chubiyojo Desmond](https://github.com/kobiyoyo)[(Email)](mailto:Adamachubi@gmail.com)
 
